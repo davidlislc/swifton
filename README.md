@@ -10,3 +10,10 @@
 10.   Swifting around  http://www.weheartswift.com/swifting-around/
 11.   
 
+
+
+
+Run sift on line
+
+http://www.runswiftlang.com/
+http://swiftstub.com/
