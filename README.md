@@ -25,3 +25,7 @@ learning video
 
 http://www.imooc.com/learn/173  Chinese : hand on iOS 8 development
 
+http://www.imooc.com/view/149  Chinese: Case study: Swift weather app
+
+
+
