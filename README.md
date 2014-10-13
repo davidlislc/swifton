@@ -7,8 +7,8 @@
 7.   Object Subscripting in Swift http://www.weheartswift.com/object-subscripting-swift/
 8.   How to Make a Simple Tableview with iOS 8 and Swift http://www.weheartswift.com/how-to-make-a-simple-table-view-with-ios-8-and-swift/
 9.   Make Awesome UI Components in iOS 8 Using Swift  http://www.weheartswift.com/make-awesome-ui-components-ios-8-using-swift-xcode-6/
-10.   Swifting around  http://www.weheartswift.com/swifting-around/
-11.Coccoa China Swift special topic   http://www.cocoachina.com/special/swift/
+10. Swifting around  http://www.weheartswift.com/swifting-around/
+11. Coccoa China Swift special topic   http://www.cocoachina.com/special/swift/
 
 Run swift on line
 
