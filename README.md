@@ -26,3 +26,7 @@ http://www.imooc.com/view/149  Chinese: Case study: Swift weather app
 
 
 
+discussion :
+
+1.  cocochina forum:  http://www.cocoachina.com/bbs/thread.php?fid-57.html
+2.  
