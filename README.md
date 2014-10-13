@@ -13,7 +13,7 @@
 
 
 
-Run sift on line
+Run swift on line
 
 http://www.runswiftlang.com/
 
