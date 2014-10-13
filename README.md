@@ -16,4 +16,12 @@
 Run sift on line
 
 http://www.runswiftlang.com/
+
 http://swiftstub.com/
+
+
+
+learning video
+
+http://www.imooc.com/learn/173  Chinese : hand on iOS 8 development
+
